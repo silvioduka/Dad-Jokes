@@ -4,4 +4,4 @@
 
 ## Test project at: 
 
-https://07-split-landing-page.vercel.app
+https://10-dad-jokes.vercel.app
